@@ -1,2 +1,27 @@
-# DEEP-LEARNING-FOR-ACCURATE-POTHOLE-DETECTION-AND-REPAIR-COST-ANALYSIS
-This project implements a computer vision-based pothole detection system using YOLOv4-Tiny. It is designed to process both images and videos, detect potholes in real time, and generate results with bounding boxes and confidence scores.  
+# 🛣️ Pothole Detection using YOLOv4-Tiny
+
+This project focuses on **automatic pothole detection** from road images/videos using **YOLOv4-Tiny**.  
+It helps in identifying potholes accurately and provides insights for **repair cost analysis**, making road maintenance smarter and more efficient.  
+
+---
+
+## 📌 Features
+- Detects potholes from images and videos.
+- Real-time detection using camera input.
+- Provides accurate pothole location coordinates.
+- Includes repair cost estimation module.
+
+---
+
+## ⚙️ Tech Stack
+- **Programming Language**: Python 🐍  
+- **Frameworks & Libraries**:  
+  - OpenCV  
+  - NumPy  
+  - TensorFlow / Keras  
+  - Matplotlib  
+- **Model**: YOLOv4-Tiny (pre-trained weights)
+
+---
+
+## 📂 Project Structure
